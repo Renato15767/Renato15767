@@ -1,4 +1,4 @@
-### Olá! eu sou o Renato Nishikawa 👋
+### Olá! eu sou o <a href="https://www.linkedin.com/in/renato-nishikawa-003406217/"> Renato Nishikawa 👋 </a>
 
 - 🔭 Procuro meu 1º emprego na área da programação
 - 🎓 Técnico em Informática
