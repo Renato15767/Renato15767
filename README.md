@@ -1,9 +1,9 @@
 ## Olá! eu sou o <a href="https://www.linkedin.com/in/renato-nishikawa-003406217/"> Renato Nishikawa </a> 👋 
 
-- 🔭 Procuro meu 1º emprego na área da programação
+- 🔭 Procuro aprender constantemente
 - 🎓 Técnico em Informática
 - 📚 Cursando Engenharia da Computação
-- 🌱 Estudando Node.js e Django
+- 🌱 Estudando para ser um futuro Engenheiro de Dados
   
 ##
 
