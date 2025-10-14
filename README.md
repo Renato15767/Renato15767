@@ -2,8 +2,9 @@
 
 - 🔭 Procuro aprender constantemente
 - 🎓 Técnico em Informática
-- 📚 Cursando Engenharia da Computação
-- 🌱 Estudando para ser um futuro Engenheiro de Dados
+- 📚 Cursando Engenharia da Computação (3/5)
+- 🌱 Estudando para futuro Engenharia/Ciência de Dados
+- :penguin: Começando a mexer e personarlizar o Arch Linux
   
 ##
 
