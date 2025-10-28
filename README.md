@@ -4,7 +4,7 @@
 - 🎓 Técnico em Informática
 - 📚 Cursando Engenharia da Computação (3/5)
 - 🌱 Estudando para ser futuro Engenharia/Ciência de Dados
-- :penguin: Começando a mexer e personarlizar o Arch Linux
+- :penguin: Windows ➡️ Arch Linux
   
 ##
 
